@@ -1,2 +1,2 @@
 hello everyone
-this is git repository test
+this is git secondly repository test
